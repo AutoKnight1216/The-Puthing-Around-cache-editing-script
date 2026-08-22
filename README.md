@@ -5,8 +5,12 @@ This script is AutoKnight's version of the script as it is the only known docume
 
 The files, including the dictionary used is available in Downloads. There are some required photos to use the script, which is in the zip file "puths.zip" along with everything else. The source code is also available in Downloads.
 
-To use the script, either Download source-code or puths.zip. 
+To use the script, either download source-code or puths.zip. 
 
 Required modules: pydirectinput, pyautogui, win32gui, win32con, pyscreeze, pyrobloxbot, requests.
 
 OPTIONAL MOUDLES (you can find work arounds for these or just not use them): time, keyboard
+
+also this is a python script so yeah
+
+pls not bully me this me first python script🥹
